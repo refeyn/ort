@@ -12,3 +12,8 @@ nvrtx	x86_64-unknown-linux-gnu	https://cdn.pyke.io/0/pyke:ort-rs/ms@1.23.2/x86_6
 none	aarch64-apple-ios	https://cdn.pyke.io/0/pyke:ort-rs/ms@1.23.2/aarch64-apple-ios.tgz	3c637c360df3f96954cbe71bc4e11f5ecf25bda66dbae356fcb47a1fc263082e
 none	aarch64-apple-ios-sim	https://cdn.pyke.io/0/pyke:ort-rs/ms@1.23.2/aarch64-apple-ios-sim.tgz	0589ca9c37d6316f98f7097b4e8678a5991c9d6b029b3adf69ef6f443be866d5
 none	aarch64-apple-darwin	https://cdn.pyke.io/0/pyke:ort-rs/ms@1.23.2/aarch64-apple-darwin.tgz	dc8b33e642323acf0d523f0a0c957aa77fd0d679f267c2e0ade5ab61c491cd15
+cu12	x86_64-pc-windows-gnu	https://cdn.pyke.io/0/pyke:ort-rs/ms@1.23.2/x86_64-pc-windows-msvc+cu12.tgz	3027fe6affe5ba364728ba8b36d27535dde65ed79f4ee296d4edca67186387c0
+wgpu	x86_64-pc-windows-gnu	https://cdn.pyke.io/0/pyke:ort-rs/ms@1.23.2/x86_64-pc-windows-msvc+wgpu.tgz	f16600492b634a6152dc818058eb8ff5a06e55ed84c376197f0cac9012e654e8
+nvrtx	x86_64-pc-windows-gnu	https://cdn.pyke.io/0/pyke:ort-rs/ms@1.23.2/x86_64-pc-windows-msvc+nvrtx.tgz	9ad74dff1e45ffba24ce6f83bd2a197f316ec08c10f428becad79d371e480554
+none	x86_64-pc-windows-gnu	https://cdn.pyke.io/0/pyke:ort-rs/ms@1.23.2/x86_64-pc-windows-msvc.tgz	a2346eaf7a72cc59530c2b8033d3201afbc609db69791b872c07578795e3769e
+none	aarch64-pc-windows-gnu	https://cdn.pyke.io/0/pyke:ort-rs/ms@1.23.2/aarch64-pc-windows-msvc.tgz	9e6a5d5e5637a3793eeda653a0fbd8636b60ff64d6f826186d2cd67d8d01c977
