@@ -16,8 +16,7 @@ wgpu	x86_64-unknown-linux-gnu	https://cdn.pyke.io/0/pyke:ort-rs/ms@1.22.1/x86_64
 none	x86_64-unknown-linux-gnu	https://cdn.pyke.io/0/pyke:ort-rs/ms@1.22.1/x86_64-unknown-linux-gnu.tgz	6091157395630D55AC75F18068254ED76C53502D9EF6917F5C40AC4BEF9B9AF4
 none	aarch64-unknown-linux-gnu	https://cdn.pyke.io/0/pyke:ort-rs/ms@1.22.1/aarch64-unknown-linux-gnu.tgz	D9D83F10347F071CCCB47475F3D3E36065AD1989D1ACD7FC95DAD1111DBFD2F0
 train	aarch64-apple-darwin	https://cdn.pyke.io/0/pyke:ort-rs/ms@1.22.1/aarch64-apple-darwin+train.tgz	BE531C956D7976B0125EE181F434D979F22B03BEF41AD0C8F500A2564A5C9C06
-cu12    x86_64-pc-windows-gnu    https://cdn.pyke.io/0/pyke:ort-rs/ms@1.23.2/x86_64-pc-windows-msvc+cu12.tgz    3027fe6affe5ba364728ba8b36d27535dde65ed79f4ee296d4edca67186387c0
-wgpu    x86_64-pc-windows-gnu    https://cdn.pyke.io/0/pyke:ort-rs/ms@1.23.2/x86_64-pc-windows-msvc+wgpu.tgz    f16600492b634a6152dc818058eb8ff5a06e55ed84c376197f0cac9012e654e8
-nvrtx    x86_64-pc-windows-gnu    https://cdn.pyke.io/0/pyke:ort-rs/ms@1.23.2/x86_64-pc-windows-msvc+nvrtx.tgz    9ad74dff1e45ffba24ce6f83bd2a197f316ec08c10f428becad79d371e480554
-none    x86_64-pc-windows-gnu    https://cdn.pyke.io/0/pyke:ort-rs/ms@1.23.2/x86_64-pc-windows-msvc.tgz    a2346eaf7a72cc59530c2b8033d3201afbc609db69791b872c07578795e3769e
-none    aarch64-pc-windows-gnu    https://cdn.pyke.io/0/pyke:ort-rs/ms@1.23.2/aarch64-pc-windows-msvc.tgz    9e6a5d5e5637a3793eeda653a0fbd8636b60ff64d6f826186d2cd67d8d01c977
+cu12	x86_64-pc-windows-gnu	https://cdn.pyke.io/0/pyke:ort-rs/ms@1.22.1/x86_64-pc-windows-msvc+cu12.tgz	B214153E940CC74C875622BA9709269D1DDA6302F213B1EAC78FBB4E306BD4DE
+wgpu	x86_64-pc-windows-gnu	https://cdn.pyke.io/0/pyke:ort-rs/ms@1.22.1/x86_64-pc-windows-msvc+wgpu.tgz	D9DFF7CBFBBA80DCAED553A954E0032D2353B4D43376C0589FC4031CE7013D51
+train	x86_64-pc-windows-gnu	https://cdn.pyke.io/0/pyke:ort-rs/ms@1.22.1/x86_64-pc-windows-msvc+train.tgz	2627A3F69D439F24E169805C4052CF74930C8D6D0FEBD36840B1054B73004764
+none	x86_64-pc-windows-gnu	https://cdn.pyke.io/0/pyke:ort-rs/ms@1.22.1/x86_64-pc-windows-msvc.tgz	DB87454C0918939AE50CC2615521297A25F799D9782717463AD8C4EEE8AEE74A
