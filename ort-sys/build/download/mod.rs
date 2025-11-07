@@ -23,7 +23,6 @@ pub use self::{
 	verify::{VerifyReader, bytes_to_hex_str, hex_str_to_bytes}
 };
 
-
 pub fn fetch_file(source_url: &str) -> Result<BodyReader<'static>, Error> {
 	let tls_provider = if cfg!(feature = "tls-rustls-no-provider") {
 		TlsProvider::Rustls
@@ -36,7 +35,7 @@ pub fn fetch_file(source_url: &str) -> Result<BodyReader<'static>, Error> {
 		RootCerts::PlatformVerifier
 	};
 
-	println!("downloading from '{source_url}'; tls_provider={tls_provider:?}, root_certs={root_certs:?}");
+	log::debug!("downloading from '{source_url}'; tls_provider={tls_provider:?}, root_certs={root_certs:?}");
 
 	let resp = Agent::new_with_config(
 		UreqConfig::builder()
